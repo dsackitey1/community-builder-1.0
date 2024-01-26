@@ -3,7 +3,7 @@ import react from "@vitejs/plugin-react";
 import { defineConfig } from "vite";
 
 export default defineConfig({
-  base: "/randomizer/",
+  base: "/community-builder-1.0/",
   plugins: [react()],
   build: {
     rollupOptions: {
